@@ -32,11 +32,11 @@
 
 # Grid component outline
 
-1- create Grid.jsx 
+1- create Grid.tsx
     - src -> components -> Grid.jsx
     - we are using twMerge, to combine tailwind classes 
         - $ npm i tailwind-merge
 
-
+# Tile component Tile.tsx
 
 
