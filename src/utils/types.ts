@@ -15,3 +15,5 @@ export type TileType = {
   };
   
 export type GridType = TileType[][];
+
+export type SpeedType = 1 | 2 | 0.5;

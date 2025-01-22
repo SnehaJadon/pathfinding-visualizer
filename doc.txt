@@ -12,15 +12,22 @@
     - app.css file deleted
 
 # Context 
+    - created PathfindingContext usePathfinding hook, 
+    - created TileContext useTile hook, 
+    - created SpeedContext useSpeed hook 
+
  
  1- Pathfinding Context
-    - src -> context -> PathfindingContext.ts
+    - src -> context -> PathfindingContext.tsx
     - to create the interface of pathfinding we have to define the type, so we create types.ts in utils (src -> utils -> types.js)
     -- to create context
         - interface
         - createContext 
         - contextProvider
     - to use this context we create hooks -> usePathfinding 
+
+2 - TileContext 
+    - similarly created context and hook 
 
 
 
