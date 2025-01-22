@@ -10,3 +10,17 @@
     - update the content in tailwind.config.js
     - edit index.css 
     - app.css file deleted
+
+# Context 
+ 
+ 1- Pathfinding Context
+    - src -> context -> PathfindingContext.ts
+    - to create the interface of pathfinding we have to define the type, so we create types.ts in utils (src -> utils -> types.js)
+    -- to create context
+        - interface
+        - createContext 
+        - contextProvider
+    - to use this context we create hooks -> usePathfinding 
+
+
+
