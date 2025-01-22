@@ -26,8 +26,17 @@
         - contextProvider
     - to use this context we create hooks -> usePathfinding 
 
-2 - TileContext 
+2 - TileContext / SpeedContext 
     - similarly created context and hook 
+
+
+# Grid component outline
+
+1- create Grid.jsx 
+    - src -> components -> Grid.jsx
+    - we are using twMerge, to combine tailwind classes 
+        - $ npm i tailwind-merge
+
 
 
 
