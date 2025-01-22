@@ -4,6 +4,9 @@
     - npm create vite@latest pathfinding-visualizer --template react-ts
 
 2 - Install tailwind css with vite 
+    - using web link - https://tailwindcss.com/docs/guides/vite
     - npm install -D tailwindcss postcss autoprefixer 
     - npx tailwindcss init -p
     - update the content in tailwind.config.js
+    - edit index.css 
+    - app.css file deleted
